@@ -1,0 +1,20 @@
+Haruka Change-logs 2.4
+
+[+] .ai [ чат с нейронкой ]
+[+] MoveHelper [ Настройки SlowNess ]
+[+] CustomModels [ Cosmetics ]
+
+[-] ElytraHelper [ SlowNess ] 
+[-] AutoTotem [ SlowNess ] 
+[-] AutoSwap [ SlowNess ] 
+
+[/] AttackAura [ мод сетинг "Спринт" теперь чекбокс "сохранять спринт" ]
+[/] ChinaHat [ Теперь следует за головой ]
+[/] AttackAura [ TargetEps [ ДУши дальше от цели ] ]
+[/] Hud [ Броня ]
+[/] NameProtect
+[/] WaterMark
+
+[FIX] NameProtect
+
+[NEW] Теперь все функции что имели SlowNess синхранизируются с InvMove [ MoveHelper ]
