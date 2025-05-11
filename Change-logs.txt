@@ -1,20 +1,19 @@
 Haruka Change-logs 2.4
 
-[+] .ai [ чат с нейронкой ]
-[+] MoveHelper [ Настройки SlowNess ]
-[+] CustomModels [ Cosmetics ]
+[+] PotionCombiner
+[+] Speed ( FunTime )
+[+] Banner
+[+] IRC
 
-[-] ElytraHelper [ SlowNess ] 
-[-] AutoTotem [ SlowNess ] 
-[-] AutoSwap [ SlowNess ] 
+[-] AutoFarm
 
-[/] AttackAura [ мод сетинг "Спринт" теперь чекбокс "сохранять спринт" ]
-[/] ChinaHat [ Теперь следует за головой ]
-[/] AttackAura [ TargetEps [ ДУши дальше от цели ] ]
-[/] Hud [ Броня ]
-[/] NameProtect
-[/] WaterMark
+[/] BMinecraft ( Улучшеный Таб [ теперь не хавает фпс ] )
+[/] Cape ( Теперь Анимирован )
+[/] RandomNickName
+[/] EntityEsp
+[/] ChinaHat
 
-[FIX] NameProtect
-
-[NEW] Теперь все функции что имели SlowNess синхранизируются с InvMove [ MoveHelper ]
+[FIX] Config
+[FIX] Friend
+[FIX] Drop ALL ( теперь нормально закрывает )
+[FIX] Отоброжение предметов в руках без CustomModels
