@@ -1,19 +1,13 @@
-Haruka Change-logs 2.4
+Haruka Change-logs 2.4.1
 
-[+] PotionCombiner
-[+] Speed ( FunTime )
-[+] Banner
-[+] IRC
+[-] .report
 
-[-] AutoFarm
+[/] AuctionHelper
+[/] AttackAura
+[/] Cosmetics
+[/] Speed
 
-[/] BMinecraft ( Улучшеный Таб [ теперь не хавает фпс ] )
-[/] Cape ( Теперь Анимирован )
-[/] RandomNickName
-[/] EntityEsp
-[/] ChinaHat
+[NEW] Улучшенно соединение с серверной частью ( ну ирс да )
 
-[FIX] Config
-[FIX] Friend
-[FIX] Drop ALL ( теперь нормально закрывает )
-[FIX] Отоброжение предметов в руках без CustomModels
+[FIX] IRC 
+[FIX] CUTE
