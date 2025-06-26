@@ -1,13 +1,18 @@
-Haruka Change-logs 2.4.1
+Haruka Change-logs 2.5
 
-[-] .report
+[+] NoSlow ( GrimTick )
+[+] ProjectileHelper
+[+] ServerCrasher
+[+] Baritone
 
-[/] AuctionHelper
-[/] AttackAura
-[/] Cosmetics
-[/] Speed
+[-] Говно Код
+[-] Assistant ( Выброс корд )
 
-[NEW] Улучшенно соединение с серверной частью ( ну ирс да )
+[/] AttackAura ( FunTime )
+[/] BetterMinecraft ( Улучшений таб теперь не хавает фпс )
+[/] AutoSwap ( Улучшен )
+[/] AntiBot ( Улучшен )
+[/] InstaRespawn
 
-[FIX] IRC 
-[FIX] CUTE
+[FIX] NameProtect ( Фикс таба )
+[FIX] NoRender ( Броня )
